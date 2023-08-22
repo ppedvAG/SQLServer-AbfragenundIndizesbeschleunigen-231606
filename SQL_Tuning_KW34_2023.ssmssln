@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_Tuning_KW34_2023", "SQL_Tuning_KW34_2023\SQL_Tuning_KW34_2023.ssmssqlproj", "{2DF7E947-7061-4AFD-8528-F6BCA47FD049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF7E947-7061-4AFD-8528-F6BCA47FD049}.Default|Default.ActiveCfg = Default
+		{0B04D960-A7A2-4E13-874A-94355394289A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC70D5D-4CD9-4932-88FE-69A92B080C32}
+	EndGlobalSection
+EndGlobal

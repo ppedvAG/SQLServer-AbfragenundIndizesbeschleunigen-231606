@@ -72,5 +72,6 @@ Regeln für die Indizierung, die fast immer sinnvoll sind:
 1. CIX auf PK Spalte (bzw. auf die ID Spalte)
 2. In Tabellen mit vielen Writes, NCIX eher hinderlich
 --> auf Tabellen mit vielen Reads dagegen meistens sehr gut
+3. NCIX gute Kandidaten für Spalten über die gejoint wird (Foreign Keys)
 
 */

@@ -16,6 +16,7 @@ Agenda Überblick:
 - Datacompression
 - Partitionierung
 - Partitionierte/updateable Views
+- Columnstore Index
 
 - Locking/Blocking/Deadlocks
 - Error Handling & Transactions

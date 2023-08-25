@@ -26,7 +26,7 @@ Agenda Überblick:
 - Stored Procedures & Abfragen Tips&Tricks
 
 - Tools intern & extern zum Monitoring
-- QueryStore, Profiler, (xEvents), Performance Monitor, SQL Query Stress usw...
+- QueryStore, sp_Blitz, Profiler, (xEvents), Performance Monitor, SQL Query Stress usw...
 
 - Statistics
 

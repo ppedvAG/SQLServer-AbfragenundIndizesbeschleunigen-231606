@@ -55,6 +55,48 @@
           <AssociatedConnUserName />
           <FullPath>05_BadQueries.sql</FullPath>
         </FileNode>
+        <FileNode Name="06_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_ViewPartition.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_ViewPartition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_SchemabindingViews.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_SchemabindingViews.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Compression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Compression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_ColumnStoreIndex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_ColumnStoreIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_LocksBlocksDeadlocks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_LocksBlocksDeadlocks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_ErrorHandling.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_ErrorHandling.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">

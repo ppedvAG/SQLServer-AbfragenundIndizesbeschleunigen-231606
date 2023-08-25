@@ -63,3 +63,7 @@ SELECT * FROM sys.dm_db_index_usage_stats
 
 -- ColumnStore Index (später mehr)
 
+
+
+SELECT Fax, Phone FROM Customers2
+WHERE City = 'Berlin'
